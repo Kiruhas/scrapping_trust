@@ -1,0 +1,1090 @@
+{
+    "1_Коттедж": {
+        "Ссылка": "https://www.trust.ru/development/property/32772/kottedzh/",
+        "Тип объекта": "Жилое"
+    },
+    "2_Квартиры_и_м/м": {
+        "Ссылка": "https://www.trust.ru/development/property/zhbi-5/",
+        "Тип объекта": "Жилое"
+    },
+    "3_Жилой_дом_в_Щелково": {
+        "Ссылка": "https://www.trust.ru/development/property/shelkovo/",
+        "Тип объекта": "Жилое"
+    },
+    "4_Бизнес-центр_«Парус»": {
+        "Ссылка": "https://www.trust.ru/development/property/37659/mytischinskiy-plastic/",
+        "Тип объекта": "Офис"
+    },
+    "5_Офисно-складская_недвижимость": {
+        "Ссылка": "https://www.trust.ru/development/property/37670/mytischinsliy-plastic/",
+        "Тип объекта": "Склад"
+    },
+    "6_Жилой_комплекс_«Сенеж»": {
+        "Ссылка": "https://www.trust.ru/development/property/37717/gk-peganov/",
+        "Тип объекта": "Жилое"
+    },
+    "7_Коттедж": {
+        "Ссылка": "https://www.trust.ru/development/property/37780/novahov/",
+        "Тип объекта": "Жилое"
+    },
+    "8_Земельный_участок": {
+        "Ссылка": "https://www.trust.ru/development/property/37236/hotel/",
+        "Тип объекта": "Земельный участок"
+    },
+    "9_Земельный_участок_с_ОНС": {
+        "Ссылка": "https://www.trust.ru/development/property/aeroflotskaya-2/",
+        "Тип объекта": "Земельный участок"
+    },
+    "10_Земельные_участки_с_таунхаусами_(ОНС)": {
+        "Ссылка": "https://www.trust.ru/development/property/gk-kapital/",
+        "Тип объекта": "Земельный участок"
+    },
+    "11_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/gk-master/",
+        "Тип объекта": "Земельный участок"
+    },
+    "12_Земельный_участок_с_ОНС": {
+        "Ссылка": "https://www.trust.ru/development/property/yasenevo-sdc-trud/",
+        "Тип объекта": "Земельный участок"
+    },
+    "13_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/odelburg/",
+        "Тип объекта": "Земельный участок"
+    },
+    "14_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/proekt-ysadba-kannada/",
+        "Тип объекта": "Земельный участок"
+    },
+    "15_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/dimores-stroyzemleproekt/",
+        "Тип объекта": "Не указано"
+    },
+    "16_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/dimores-ampir/",
+        "Тип объекта": "Земельный участок"
+    },
+    "17_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/dimores-voshod/",
+        "Тип объекта": "Земельный участок"
+    },
+    "18_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/dimores-logistik/",
+        "Тип объекта": "Земельный участок"
+    },
+    "19_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/dimores-pervomayskya/",
+        "Тип объекта": "Земельный участок"
+    },
+    "20_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/dimores-torino/",
+        "Тип объекта": "Земельный участок"
+    },
+    "21_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/dimores-yunior/",
+        "Тип объекта": "Земельный участок"
+    },
+    "22_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/fg-komstrin/",
+        "Тип объекта": "Земельный участок"
+    },
+    "23_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/dimores-solncevo/",
+        "Тип объекта": "Земельный участок"
+    },
+    "24_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/dimores-agrocentr/",
+        "Тип объекта": "Земельный участок"
+    },
+    "25_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/elit-esteid/",
+        "Тип объекта": "Земельный участок"
+    },
+    "26_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/montazh-otdel-stroy/",
+        "Тип объекта": "Земельный участок"
+    },
+    "27_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/37481/zemelnye-uchastki/",
+        "Тип объекта": "Земельный участок"
+    },
+    "28_Земельные_участки_(41_объект)": {
+        "Ссылка": "https://www.trust.ru/development/property/37712/invea/",
+        "Тип объекта": "Не указано"
+    },
+    "29_Права_аренды_земельных_участков,_строения_и_оборудование": {
+        "Ссылка": "https://www.trust.ru/development/property/37713/gk-4/",
+        "Тип объекта": "Не указано"
+    },
+    "30_Здание_и_земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/37719/gk-peganov/",
+        "Тип объекта": "Не указано"
+    },
+    "31_Земельные_участки_(23_объекта)": {
+        "Ссылка": "https://www.trust.ru/development/property/37720/gk-peganov/",
+        "Тип объекта": "Земельный участок"
+    },
+    "32_Земельный_участок": {
+        "Ссылка": "https://www.trust.ru/development/property/37722/gk-peganov/",
+        "Тип объекта": "Земельный участок"
+    },
+    "33_Земельные_участки,_жилые_дома,_офисные_помещения": {
+        "Ссылка": "https://www.trust.ru/development/property/37723/gk-peganov/",
+        "Тип объекта": "Не указано"
+    },
+    "34_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/37724/van-bree/",
+        "Тип объекта": "Не указано"
+    },
+    "35_Имущественный_комплекс_на_Минском_шоссе": {
+        "Ссылка": "https://www.trust.ru/development/property/37727/gema/",
+        "Тип объекта": "Не указано"
+    },
+    "36_Имущественный_комплекс_на_Можайском_шоссе": {
+        "Ссылка": "https://www.trust.ru/development/property/37728/gema/",
+        "Тип объекта": "Не указано"
+    },
+    "37_Земельные_участки_(2_объекта)": {
+        "Ссылка": "https://www.trust.ru/development/property/37731/gema/",
+        "Тип объекта": "Не указано"
+    },
+    "38_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/37759/komstrin/",
+        "Тип объекта": "Не указано"
+    },
+    "39_SPA_отель_«Grand_imperial_&_SPA»": {
+        "Ссылка": "https://www.trust.ru/development/property/novahov-spa/",
+        "Тип объекта": "Отели"
+    },
+    "40_Здание_гостиницы_«Турсунт»": {
+        "Ссылка": "https://www.trust.ru/development/property/37478/zdanie-gostinitsy-tursunt/",
+        "Тип объекта": "Земельный участок"
+    },
+    "41_База_отдыха": {
+        "Ссылка": "https://www.trust.ru/development/property/37660/mosstroyplastmass/",
+        "Тип объекта": "Отели"
+    },
+    "42_База_отдыха_«Флора_Парк»": {
+        "Ссылка": "https://www.trust.ru/development/property/37668/mytischinskiy-plastic/",
+        "Тип объекта": "Не указано"
+    },
+    "43_База_отдыха_«Добрино»": {
+        "Ссылка": "https://www.trust.ru/development/property/37678/dobrino/",
+        "Тип объекта": "Отели"
+    },
+    "44_Офисное_9-ти_этажное_здание": {
+        "Ссылка": "https://www.trust.ru/development/property/37729/gema/",
+        "Тип объекта": "Не указано"
+    },
+    "45_База_отдыха": {
+        "Ссылка": "https://www.trust.ru/development/property/37783/forema/",
+        "Тип объекта": "Отели"
+    },
+    "46_Гольф-клуб": {
+        "Ссылка": "https://www.trust.ru/development/property/golf-club/",
+        "Тип объекта": "Офис"
+    },
+    "47_БЦ_«Вешняки»": {
+        "Ссылка": "https://www.trust.ru/development/property/veshnyaki/",
+        "Тип объекта": "Офис"
+    },
+    "48_Помещения_в_офисном_центре_класса_С": {
+        "Ссылка": "https://www.trust.ru/development/property/privat-lizing/",
+        "Тип объекта": "Офис"
+    },
+    "49_Офисные_и_торговые_помещения_в_БЦ_«Южный_Парк»,_класс_С": {
+        "Ссылка": "https://www.trust.ru/development/property/kirpichnie-vyemki/",
+        "Тип объекта": "Офис"
+    },
+    "50_Бизнес_центр_Dominion_Tower_класса_А": {
+        "Ссылка": "https://www.trust.ru/development/property/dominion/",
+        "Тип объекта": "Офис"
+    },
+    "51_Нежилое_4-х_этажное_административно-офисное_здание_класса_«В-/С»": {
+        "Ссылка": "https://www.trust.ru/development/property/master/",
+        "Тип объекта": "Офис"
+    },
+    "52_БЦ_Обручева": {
+        "Ссылка": "https://www.trust.ru/development/property/obrucheva/",
+        "Тип объекта": "Офис"
+    },
+    "53_Офисное_здание_класса_«В»": {
+        "Ссылка": "https://www.trust.ru/development/property/russkaya-melnitsa/",
+        "Тип объекта": "Офис"
+    },
+    "54_Офисное_здание_класса_«В»": {
+        "Ссылка": "https://www.trust.ru/development/property/klemanso-cvetnoy/",
+        "Тип объекта": "Офис"
+    },
+    "55_Нежилые_офисные_помещения": {
+        "Ссылка": "https://www.trust.ru/development/property/klemanso-varshavskoe/",
+        "Тип объекта": "Офис"
+    },
+    "56_Нежилые_офисные_помещения": {
+        "Ссылка": "https://www.trust.ru/development/property/klemanso-abelmanovskaya/",
+        "Тип объекта": "Офис"
+    },
+    "57_Нежилые_помещения": {
+        "Ссылка": "https://www.trust.ru/development/property/svet/",
+        "Тип объекта": "Офис"
+    },
+    "58_Нежилые_офисные_помещения": {
+        "Ссылка": "https://www.trust.ru/development/property/37468/progress/",
+        "Тип объекта": "Офис"
+    },
+    "59_Нежилые_помещения_в_БЦ_«WEST_PLAZA»": {
+        "Ссылка": "https://www.trust.ru/development/property/37479/sng-logistic/",
+        "Тип объекта": "Офис"
+    },
+    "60_Торгово-офисный_комплекс_«Clover_House»": {
+        "Ссылка": "https://www.trust.ru/development/property/37575/mir/",
+        "Тип объекта": "Не указано"
+    },
+    "61_Офисное_здание_класса_«С»": {
+        "Ссылка": "https://www.trust.ru/development/property/37624/alt/",
+        "Тип объекта": "Офис"
+    },
+    "62_Административно-офисное_здание": {
+        "Ссылка": "https://www.trust.ru/development/property/37741/menegment-konsalting/",
+        "Тип объекта": "Офис"
+    },
+    "63_База_отдыха": {
+        "Ссылка": "https://www.trust.ru/development/property/37601/yugra-lizing/",
+        "Тип объекта": "Площадка под девелопмент"
+    },
+    "64_Производственный_дерево-перерабатывающий_комплекс": {
+        "Ссылка": "https://www.trust.ru/development/property/rentformgroup/",
+        "Тип объекта": "Не указано"
+    },
+    "65_Завод_строительных_материалов": {
+        "Ссылка": "https://www.trust.ru/development/property/37869/",
+        "Тип объекта": "Производственные комплексы"
+    },
+    "66_Нежилое_помещение": {
+        "Ссылка": "https://www.trust.ru/development/property/klemanso-zhylebino/",
+        "Тип объекта": "Не указано"
+    },
+    "67_Нежилое_помещение": {
+        "Ссылка": "https://www.trust.ru/development/property/klemanso-raevskogo/",
+        "Тип объекта": "Не указано"
+    },
+    "68_Нежилое_помещение": {
+        "Ссылка": "https://www.trust.ru/development/property/klemanso-gogolevskiy/",
+        "Тип объекта": "Не указано"
+    },
+    "69_ОНС_–_Бизнес_Центр_«Новый_квартал»_Класс_В": {
+        "Ссылка": "https://www.trust.ru/development/property/verita/",
+        "Тип объекта": "Другое"
+    },
+    "70_Нежилые_помещения_в_ТВК_«ВДНХ_Экспо»": {
+        "Ссылка": "https://www.trust.ru/development/property/gk-peganov-vvc/",
+        "Тип объекта": "Другое"
+    },
+    "71_Нежилые_помещения": {
+        "Ссылка": "https://www.trust.ru/development/property/37714/gk-peganov/",
+        "Тип объекта": "Торговля"
+    },
+    "72_Имущественный_комплекс": {
+        "Ссылка": "https://www.trust.ru/development/property/37734/yuzhniy-ural/",
+        "Тип объекта": "Не указано"
+    },
+    "73_Имущественный_комплекс": {
+        "Ссылка": "https://www.trust.ru/development/property/37737/yuzhniy-ural//",
+        "Тип объекта": "Не указано"
+    },
+    "74_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/37772/liniya/",
+        "Тип объекта": "Земельный участок"
+    },
+    "75_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/37777/novahov/",
+        "Тип объекта": "Земельный участок"
+    },
+    "76_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/37778/novahov/",
+        "Тип объекта": "Земельный участок"
+    },
+    "77_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/37779/novahov/",
+        "Тип объекта": "Земельный участок"
+    },
+    "78_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/37781/novahov/",
+        "Тип объекта": "Земельный участок"
+    },
+    "79_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/property/37782/novahov/",
+        "Тип объекта": "Земельный участок"
+    },
+    "80_ТРЦ_\"Агора\"": {
+        "Ссылка": "https://www.trust.ru/development/property/37840/trts-agora/",
+        "Тип объекта": "Торговля"
+    },
+    "81_Производственно-складской_комплекс_класса_«С»": {
+        "Ссылка": "https://www.trust.ru/development/property/vegetta/",
+        "Тип объекта": "Склад"
+    },
+    "82_Офисно-складской_комплекс_класс_А": {
+        "Ссылка": "https://www.trust.ru/development/property/salarievo/",
+        "Тип объекта": "Склад"
+    },
+    "83_Складской_комплекс_с_сухим_складом": {
+        "Ссылка": "https://www.trust.ru/development/property/urshak/",
+        "Тип объекта": "Склад"
+    },
+    "84_Производственно-складской_комплекс": {
+        "Ссылка": "https://www.trust.ru/development/property/gk-olimpika/",
+        "Тип объекта": "Склад"
+    },
+    "85_Производственно-складской_комплекс": {
+        "Ссылка": "https://www.trust.ru/development/property/37470/solomint/",
+        "Тип объекта": "Не указано"
+    },
+    "86_Офисно-складской_комплекс": {
+        "Ссылка": "https://www.trust.ru/development/property/37472/forema-kuhni/",
+        "Тип объекта": "Склад"
+    },
+    "87_Складской_комплекс": {
+        "Ссылка": "https://www.trust.ru/development/property/37473/gk-best/",
+        "Тип объекта": "Склад"
+    },
+    "88_Производственно–складское_имущество": {
+        "Ссылка": "https://www.trust.ru/development/property/37658/mytischinskiy-plastic/",
+        "Тип объекта": "Склад"
+    },
+    "89_Производственно–складское_имущество": {
+        "Ссылка": "https://www.trust.ru/development/property/37669/mosstroyplastmass/",
+        "Тип объекта": "Склад"
+    },
+    "90_Складской_комплекс": {
+        "Ссылка": "https://www.trust.ru/development/property/37730/gema/",
+        "Тип объекта": "Не указано"
+    },
+    "91_Универмаг_\"Ясенево\",_здание_класса_В": {
+        "Ссылка": "https://www.trust.ru/development/property/yasenevo/",
+        "Тип объекта": "Торговля"
+    },
+    "92_ТЦ_«Белград»": {
+        "Ссылка": "https://www.trust.ru/development/property/yasenevo-belgrad/",
+        "Тип объекта": "Торговля"
+    },
+    "93_Универмаг,_здание_класса_В": {
+        "Ссылка": "https://www.trust.ru/development/property/yasenevo-molodezhniy/",
+        "Тип объекта": "Торговля"
+    },
+    "94_Действующий_универмаг": {
+        "Ссылка": "https://www.trust.ru/development/property/yasenevo-dobryninskiy/",
+        "Тип объекта": "Склад"
+    },
+    "95_Торговый_комплекс_и_ОНС_(кинотеатр)": {
+        "Ссылка": "https://www.trust.ru/development/property/cpk-kaluga/",
+        "Тип объекта": "Торговля"
+    },
+    "96_ТЦ_\"Галле\",_Уфа": {
+        "Ссылка": "https://www.trust.ru/development/property/ufa-zorge/",
+        "Тип объекта": "Торговля"
+    },
+    "97_Торговый_центр._Класс_–_«В»": {
+        "Ссылка": "https://www.trust.ru/development/property/ogni-stolitsy/",
+        "Тип объекта": "Торговля"
+    },
+    "98_ТЦ_Премьера": {
+        "Ссылка": "https://www.trust.ru/development/property/citygrad/",
+        "Тип объекта": "Торговля"
+    },
+    "99_Торговые_помещения_в_супермаркете_«Матрица»": {
+        "Ссылка": "https://www.trust.ru/development/property/mdm-perovskoy-11/",
+        "Тип объекта": "Торговля"
+    },
+    "100_Торгово-развлекательный_центр": {
+        "Ссылка": "https://www.trust.ru/development/property/orekhovo-zuevo/",
+        "Тип объекта": "Торговля"
+    },
+    "101_Имущественный_комплекс_в_Кемерово": {
+        "Ссылка": "https://www.trust.ru/development/property/kemerovskaya-oblast/",
+        "Тип объекта": "Торговля"
+    },
+    "102_Торговые_помещения_в_стилабатной_части_ЖК_«Воробьевы_горы»": {
+        "Ссылка": "https://www.trust.ru/development/property/yasenevo-versal/",
+        "Тип объекта": "Торговля"
+    },
+    "103_Торговый_центр": {
+        "Ссылка": "https://www.trust.ru/development/property/samara/",
+        "Тип объекта": "Торговля"
+    },
+    "104_Нежилые_помещения": {
+        "Ссылка": "https://www.trust.ru/development/property/investcom-vilyaskaya/",
+        "Тип объекта": "Торговля"
+    },
+    "105_Помещение_свободного_назначения_в_жилом_доме": {
+        "Ссылка": "https://www.trust.ru/development/property/gk-evropa-chernyahovskogo/",
+        "Тип объекта": "Торговля"
+    },
+    "106_Помещение_свободного_назначения_в_жилом_доме": {
+        "Ссылка": "https://www.trust.ru/development/property/gk-evropa-jitomirskaya/",
+        "Тип объекта": "Торговля"
+    },
+    "107_Нежилое_помещение": {
+        "Ссылка": "https://www.trust.ru/development/property/moskvichka-andropova/",
+        "Тип объекта": "Торговля"
+    },
+    "108_Нежилое_помещение": {
+        "Ссылка": "https://www.trust.ru/development/property/moskvichka-volokolamskoe/",
+        "Тип объекта": "Торговля"
+    },
+    "109_Нежилое_помещение": {
+        "Ссылка": "https://www.trust.ru/development/property/moskvichka-sankt-peterburg/",
+        "Тип объекта": "Торговля"
+    },
+    "110_Нежилое_помещение": {
+        "Ссылка": "https://www.trust.ru/development/property/moskvichka-yaroslavl/",
+        "Тип объекта": "Торговля"
+    },
+    "111_ТЦ_«Clover_House»_с_БЦ": {
+        "Ссылка": "https://www.trust.ru/development/property/37574/vek/",
+        "Тип объекта": "Торговля"
+    },
+    "112_Здание_автосалона": {
+        "Ссылка": "https://www.trust.ru/development/property/37577/gk-avrora/",
+        "Тип объекта": "Не указано"
+    },
+    "113_Нежилые_помещения": {
+        "Ссылка": "https://www.trust.ru/development/property/37578/varta/",
+        "Тип объекта": "Не указано"
+    },
+    "114_Автосалон": {
+        "Ссылка": "https://www.trust.ru/development/property/37597/rzhavki/",
+        "Тип объекта": "Торговля"
+    },
+    "115_Торговое_здание_(рынок)": {
+        "Ссылка": "https://www.trust.ru/development/property/37598/sayany/",
+        "Тип объекта": "Торговля"
+    },
+    "116_Торговый_центр": {
+        "Ссылка": "https://www.trust.ru/development/property/37599/sayany/",
+        "Тип объекта": "Торговля"
+    },
+    "117_Торговый_центр": {
+        "Ссылка": "https://www.trust.ru/development/property/37600/sayany/",
+        "Тип объекта": "Торговля"
+    },
+    "118_Здание_4-х_этажное": {
+        "Ссылка": "https://www.trust.ru/development/property/37716/gk-peganov/",
+        "Тип объекта": "Не указано"
+    },
+    "119_Торговый_комплекс_«Центральный»": {
+        "Ссылка": "https://www.trust.ru/development/property/37718/gk-peganov/",
+        "Тип объекта": "Не указано"
+    },
+    "120_Нежилые_помещения_(3_объекта)": {
+        "Ссылка": "https://www.trust.ru/development/property/37732/moskvichka/",
+        "Тип объекта": "Торговля"
+    },
+    "121_ЖК_«Авиатор-парк»": {
+        "Ссылка": "https://www.trust.ru/development/other/32773/",
+        "Тип объекта": "Жилое"
+    },
+    "122_Квартиры": {
+        "Ссылка": "https://www.trust.ru/development/other/32791/",
+        "Тип объекта": "Не указано"
+    },
+    "123_1-комн._квартира,_29.7_м²,_1/2_эт.": {
+        "Ссылка": "https://www.trust.ru/development/other/32794/",
+        "Тип объекта": "Не указано"
+    },
+    "124_Многокомнатная_квартира,__191,6_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32798/",
+        "Тип объекта": "Не указано"
+    },
+    "125_3-комн._квартира": {
+        "Ссылка": "https://www.trust.ru/development/other/32803/",
+        "Тип объекта": "Не указано"
+    },
+    "126_Коттедж": {
+        "Ссылка": "https://www.trust.ru/development/other/32806/",
+        "Тип объекта": "Не указано"
+    },
+    "127_1-комн._квартира": {
+        "Ссылка": "https://www.trust.ru/development/other/32812/",
+        "Тип объекта": "Не указано"
+    },
+    "128_Дом": {
+        "Ссылка": "https://www.trust.ru/development/other/32813/",
+        "Тип объекта": "Жилое"
+    },
+    "129_5-комн._квартира": {
+        "Ссылка": "https://www.trust.ru/development/other/32814/",
+        "Тип объекта": "Не указано"
+    },
+    "130_1-комн._квартира": {
+        "Ссылка": "https://www.trust.ru/development/other/32816/",
+        "Тип объекта": "Не указано"
+    },
+    "131_3-к._квартира,_60_м²,_7/9_эт.": {
+        "Ссылка": "https://www.trust.ru/development/other/37791/",
+        "Тип объекта": "Жилое"
+    },
+    "132_2-к._квартира,_49,8_м²,_2/9_эт.": {
+        "Ссылка": "https://www.trust.ru/development/other/37792/",
+        "Тип объекта": "Жилое"
+    },
+    "133_2-к._квартира,_39,4_м²,_2/5_эт.": {
+        "Ссылка": "https://www.trust.ru/development/other/37793/",
+        "Тип объекта": "Жилое"
+    },
+    "134_Участок_11.4_га_(СНТ,_ДНП)": {
+        "Ссылка": "https://www.trust.ru/development/other/32737/",
+        "Тип объекта": "Не указано"
+    },
+    "135_Участок_5.7_га_(СНТ,_ДНП)": {
+        "Ссылка": "https://www.trust.ru/development/other/32738/",
+        "Тип объекта": "Не указано"
+    },
+    "136_Участок_0,15_га_(сельхоз._назначения)": {
+        "Ссылка": "https://www.trust.ru/development/other/32742/",
+        "Тип объекта": "Не указано"
+    },
+    "137_Земельный_участок,_нежилое_помещение": {
+        "Ссылка": "https://www.trust.ru/development/other/32745/",
+        "Тип объекта": "Не указано"
+    },
+    "138_147_земельных_участков_общей_площадью_11,5_га": {
+        "Ссылка": "https://www.trust.ru/development/other/32747/",
+        "Тип объекта": "Не указано"
+    },
+    "139_Земельный_участок": {
+        "Ссылка": "https://www.trust.ru/development/other/32748/",
+        "Тип объекта": "Не указано"
+    },
+    "140_Земельный_участок": {
+        "Ссылка": "https://www.trust.ru/development/other/32751/",
+        "Тип объекта": "Не указано"
+    },
+    "141_Земельный_участок": {
+        "Ссылка": "https://www.trust.ru/development/other/32752/",
+        "Тип объекта": "Не указано"
+    },
+    "142_Земельный_участок": {
+        "Ссылка": "https://www.trust.ru/development/other/32753/",
+        "Тип объекта": "Не указано"
+    },
+    "143_Земельный_участок": {
+        "Ссылка": "https://www.trust.ru/development/other/32754/",
+        "Тип объекта": "Не указано"
+    },
+    "144_Земельный_участок": {
+        "Ссылка": "https://www.trust.ru/development/other/32755/",
+        "Тип объекта": "Не указано"
+    },
+    "145_Земельный_участок": {
+        "Ссылка": "https://www.trust.ru/development/other/32757/",
+        "Тип объекта": "Не указано"
+    },
+    "146_Земельный_участок": {
+        "Ссылка": "https://www.trust.ru/development/other/32759/",
+        "Тип объекта": "Не указано"
+    },
+    "147_Земельный_участок": {
+        "Ссылка": "https://www.trust.ru/development/other/32761/",
+        "Тип объекта": "Не указано"
+    },
+    "148_Земельный_участок": {
+        "Ссылка": "https://www.trust.ru/development/other/32762/",
+        "Тип объекта": "Не указано"
+    },
+    "149_Земельный_участок": {
+        "Ссылка": "https://www.trust.ru/development/other/32764/",
+        "Тип объекта": "Не указано"
+    },
+    "150_Земельный_участок": {
+        "Ссылка": "https://www.trust.ru/development/other/32766/",
+        "Тип объекта": "Не указано"
+    },
+    "151_Земельный_участок": {
+        "Ссылка": "https://www.trust.ru/development/other/32769/",
+        "Тип объекта": "Не указано"
+    },
+    "152_Земельный_участок": {
+        "Ссылка": "https://www.trust.ru/development/other/32770/",
+        "Тип объекта": "Не указано"
+    },
+    "153_Земельные_участки": {
+        "Ссылка": "https://www.trust.ru/development/other/37648/invea/",
+        "Тип объекта": "Земельный участок"
+    },
+    "154_Земельный_участок": {
+        "Ссылка": "https://www.trust.ru/development/other/37789/",
+        "Тип объекта": "Земельный участок"
+    },
+    "155_Нежилые_здания": {
+        "Ссылка": "https://www.trust.ru/development/other/32817/",
+        "Тип объекта": "Не указано"
+    },
+    "156_Нежилые_помещения_в_ЖК_Сияние": {
+        "Ссылка": "https://www.trust.ru/development/other/32818/",
+        "Тип объекта": "Не указано"
+    },
+    "157_Нежилые_помещения_в_ЖК_Сияние": {
+        "Ссылка": "https://www.trust.ru/development/other/32819/",
+        "Тип объекта": "Не указано"
+    },
+    "158_Нежилые_помещения_в_ЖК_Сияние": {
+        "Ссылка": "https://www.trust.ru/development/other/32820/",
+        "Тип объекта": "Не указано"
+    },
+    "159_Нежилые_помещения_в_ЖК_Сияние": {
+        "Ссылка": "https://www.trust.ru/development/other/32821/",
+        "Тип объекта": "Не указано"
+    },
+    "160_Нежилые_помещения_в_ЖК_Сияние": {
+        "Ссылка": "https://www.trust.ru/development/other/32822/",
+        "Тип объекта": "Не указано"
+    },
+    "161_Нежилые_помещения_в_ЖК_Сияние": {
+        "Ссылка": "https://www.trust.ru/development/other/32823/",
+        "Тип объекта": "Не указано"
+    },
+    "162_Нежилые_помещения_в_ЖК_Сияние": {
+        "Ссылка": "https://www.trust.ru/development/other/32824/",
+        "Тип объекта": "Не указано"
+    },
+    "163_Здание_автосалона": {
+        "Ссылка": "https://www.trust.ru/development/other/32827/",
+        "Тип объекта": "Не указано"
+    },
+    "164_Здание_станцияи_ТО": {
+        "Ссылка": "https://www.trust.ru/development/other/32828/",
+        "Тип объекта": "Не указано"
+    },
+    "165_Помещение_свободного_назначения_10510_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32829/",
+        "Тип объекта": "Не указано"
+    },
+    "166_Склад_8912.4_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32830/",
+        "Тип объекта": "Не указано"
+    },
+    "167_Производственно-складское_здание,_8029.6_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32831/",
+        "Тип объекта": "Не указано"
+    },
+    "168_Складская_база,_1909.8_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32835/",
+        "Тип объекта": "Не указано"
+    },
+    "169_Офисные_помещения,_228.1_кв._м": {
+        "Ссылка": "https://www.trust.ru/development/other/32840/",
+        "Тип объекта": "Не указано"
+    },
+    "170_Торговое_помещение,_2833.6_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32841/",
+        "Тип объекта": "Не указано"
+    },
+    "171_Помещение_свободного_назначения,_283,4_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32843/",
+        "Тип объекта": "Не указано"
+    },
+    "172_Торговые_помещения,_5702_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32844/",
+        "Тип объекта": "Не указано"
+    },
+    "173_Офисное_помещение,_599.5_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32845/",
+        "Тип объекта": "Не указано"
+    },
+    "174_Помещение_свободного_назначения,_453.6_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32846/",
+        "Тип объекта": "Не указано"
+    },
+    "175_Помещение_свободного_назначения,_177.2_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32848/",
+        "Тип объекта": "Не указано"
+    },
+    "176_Помещение_свободного_назначения_2481,7_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32855/",
+        "Тип объекта": "Не указано"
+    },
+    "177_Здание_развлекательного_центра,_4809.5_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32856/",
+        "Тип объекта": "Не указано"
+    },
+    "178_Торговое_помещение_на_1_этаже_жилого_дом,_655.4_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32857/",
+        "Тип объекта": "Не указано"
+    },
+    "179_Отдельно_стоящее_здание,_2510.5_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32858/",
+        "Тип объекта": "Не указано"
+    },
+    "180_Производственное_помещение,_9846.2_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32859/",
+        "Тип объекта": "Не указано"
+    },
+    "181_Помещения_свободного_назначения,_728,7_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32860/",
+        "Тип объекта": "Не указано"
+    },
+    "182_Помещения_свободного_назначения,_486,4_кв._м": {
+        "Ссылка": "https://www.trust.ru/development/other/32861/",
+        "Тип объекта": "Не указано"
+    },
+    "183_Помещение_свободного_назначения,_257.5_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32862/",
+        "Тип объекта": "Не указано"
+    },
+    "184_Помещение_свободного_назначения,_608.9_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32863/",
+        "Тип объекта": "Не указано"
+    },
+    "185_Здание_224,9_кв._м": {
+        "Ссылка": "https://www.trust.ru/development/other/32866/",
+        "Тип объекта": "Не указано"
+    },
+    "186_Торговое_помещение_677_кв._м": {
+        "Ссылка": "https://www.trust.ru/development/other/32874/",
+        "Тип объекта": "Не указано"
+    },
+    "187_Производственно-складской_комплекс_16129.3_кв._м": {
+        "Ссылка": "https://www.trust.ru/development/other/32875/",
+        "Тип объекта": "Не указано"
+    },
+    "188_Офисное_здание_8166,2_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32876/",
+        "Тип объекта": "Не указано"
+    },
+    "189_Помещение_свободного_назначения_301,4_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32877/",
+        "Тип объекта": "Не указано"
+    },
+    "190_Торгово-развлекательный_центр_10422,6_кв._м": {
+        "Ссылка": "https://www.trust.ru/development/other/32880/",
+        "Тип объекта": "Не указано"
+    },
+    "191_Отдельно_стоящее_здание_1123,9_м²": {
+        "Ссылка": "https://www.trust.ru/development/other/32881/",
+        "Тип объекта": "Не указано"
+    },
+    "192_Нежилое_здание": {
+        "Ссылка": "https://www.trust.ru/development/other/32885/",
+        "Тип объекта": "Не указано"
+    },
+    "193_Торговое_помещение": {
+        "Ссылка": "https://www.trust.ru/development/other/32886/",
+        "Тип объекта": "Не указано"
+    },
+    "194_Нежилое_помещение": {
+        "Ссылка": "https://www.trust.ru/development/other/32887/",
+        "Тип объекта": "Не указано"
+    },
+    "195_Нежилые_помещения_(Торговый_комплекс)": {
+        "Ссылка": "https://www.trust.ru/development/other/32888/",
+        "Тип объекта": "Не указано"
+    },
+    "196_Нежилое_помещение": {
+        "Ссылка": "https://www.trust.ru/development/other/32889/",
+        "Тип объекта": "Не указано"
+    },
+    "197_ТЦ_\"СИТИ\"": {
+        "Ссылка": "https://www.trust.ru/development/other/32890/",
+        "Тип объекта": "Не указано"
+    },
+    "198_ТЦ_\"Вестер\"": {
+        "Ссылка": "https://www.trust.ru/development/other/32891/",
+        "Тип объекта": "Не указано"
+    },
+    "199_База_отдыха": {
+        "Ссылка": "https://www.trust.ru/development/other/32892/",
+        "Тип объекта": "Не указано"
+    },
+    "200_Торгово_-_выставочный_комплекс": {
+        "Ссылка": "https://www.trust.ru/development/other/32893/",
+        "Тип объекта": "Не указано"
+    },
+    "201_Торговый_центр": {
+        "Ссылка": "https://www.trust.ru/development/other/32894/",
+        "Тип объекта": "Не указано"
+    },
+    "202_Нежилое_помещение": {
+        "Ссылка": "https://www.trust.ru/development/other/32895/",
+        "Тип объекта": "Не указано"
+    },
+    "203_Производственный_комплекс": {
+        "Ссылка": "https://www.trust.ru/development/other/32896/",
+        "Тип объекта": "Не указано"
+    },
+    "204_Складской_комплекс": {
+        "Ссылка": "https://www.trust.ru/development/other/32899/",
+        "Тип объекта": "Не указано"
+    },
+    "205_Производственно_складская_база": {
+        "Ссылка": "https://www.trust.ru/development/other/32900/",
+        "Тип объекта": "Не указано"
+    },
+    "206_Административно-офисное_здание": {
+        "Ссылка": "https://www.trust.ru/development/other/32902/",
+        "Тип объекта": "Не указано"
+    },
+    "207_Помещение_свободного_назначения": {
+        "Ссылка": "https://www.trust.ru/development/other/32904/",
+        "Тип объекта": "Не указано"
+    },
+    "208_Помещения_свободного_назначения": {
+        "Ссылка": "https://www.trust.ru/development/other/32905/",
+        "Тип объекта": "Не указано"
+    },
+    "209_Торгово-офисные_помещения": {
+        "Ссылка": "https://www.trust.ru/development/other/32906/",
+        "Тип объекта": "Не указано"
+    },
+    "210_Офисное_здание": {
+        "Ссылка": "https://www.trust.ru/development/other/32909/",
+        "Тип объекта": "Не указано"
+    },
+    "211_Помещение_свободного_назначения": {
+        "Ссылка": "https://www.trust.ru/development/other/32911/",
+        "Тип объекта": "Не указано"
+    },
+    "212_Помещение_свободного_назначения": {
+        "Ссылка": "https://www.trust.ru/development/other/32912/",
+        "Тип объекта": "Не указано"
+    },
+    "213_Торгово-офисный_центр": {
+        "Ссылка": "https://www.trust.ru/development/other/32913/",
+        "Тип объекта": "Не указано"
+    },
+    "214_Торговое_помещение_в_БЦ": {
+        "Ссылка": "https://www.trust.ru/development/other/32915/",
+        "Тип объекта": "Не указано"
+    },
+    "215_Торговое_помещение_в_ТРЦ": {
+        "Ссылка": "https://www.trust.ru/development/other/32916/",
+        "Тип объекта": "Не указано"
+    },
+    "216_Торговое_помещение_в_ТЦ": {
+        "Ссылка": "https://www.trust.ru/development/other/32917/",
+        "Тип объекта": "Не указано"
+    },
+    "217_Помещение_свободного_назначения": {
+        "Ссылка": "https://www.trust.ru/development/other/32918/",
+        "Тип объекта": "Не указано"
+    },
+    "218_Помещение_свободного_назначения": {
+        "Ссылка": "https://www.trust.ru/development/other/32919/",
+        "Тип объекта": "Не указано"
+    },
+    "219_Помещение_свободного_назначения": {
+        "Ссылка": "https://www.trust.ru/development/other/32921/",
+        "Тип объекта": "Не указано"
+    },
+    "220_Офисное_помещение": {
+        "Ссылка": "https://www.trust.ru/development/other/32923/",
+        "Тип объекта": "Не указано"
+    },
+    "221_Помещение_свободного_назначения": {
+        "Ссылка": "https://www.trust.ru/development/other/32924/",
+        "Тип объекта": "Не указано"
+    },
+    "222_Помещение_свободного_назначения": {
+        "Ссылка": "https://www.trust.ru/development/other/32925/",
+        "Тип объекта": "Не указано"
+    },
+    "223_Помещение_свободного_назначения": {
+        "Ссылка": "https://www.trust.ru/development/other/32926/",
+        "Тип объекта": "Не указано"
+    },
+    "224_Помещение_свободного_назначения": {
+        "Ссылка": "https://www.trust.ru/development/other/32927/",
+        "Тип объекта": "Не указано"
+    },
+    "225_Торговое_помещение": {
+        "Ссылка": "https://www.trust.ru/development/other/32932/",
+        "Тип объекта": "Не указано"
+    },
+    "226_Помещение_свободного_назначения": {
+        "Ссылка": "https://www.trust.ru/development/other/32934/",
+        "Тип объекта": "Не указано"
+    },
+    "227_Помещение_свободного_назначения": {
+        "Ссылка": "https://www.trust.ru/development/other/32935/",
+        "Тип объекта": "Не указано"
+    },
+    "228_Помещение_свободного_назначения": {
+        "Ссылка": "https://www.trust.ru/development/other/32936/",
+        "Тип объекта": "Не указано"
+    },
+    "229_Офис": {
+        "Ссылка": "https://www.trust.ru/development/other/32940/",
+        "Тип объекта": "Не указано"
+    },
+    "230_Офис": {
+        "Ссылка": "https://www.trust.ru/development/other/32944/",
+        "Тип объекта": "Не указано"
+    },
+    "231_Помещение_свободного_назначения": {
+        "Ссылка": "https://www.trust.ru/development/other/32945/",
+        "Тип объекта": "Не указано"
+    },
+    "232_Нежилое_здание": {
+        "Ссылка": "https://www.trust.ru/development/other/32946/",
+        "Тип объекта": "Не указано"
+    },
+    "233_Офис": {
+        "Ссылка": "https://www.trust.ru/development/other/32956/",
+        "Тип объекта": "Не указано"
+    },
+    "234_Производственное_помещение": {
+        "Ссылка": "https://www.trust.ru/development/other/32958/",
+        "Тип объекта": "Не указано"
+    },
+    "235_Помещение_свободного_назначения": {
+        "Ссылка": "https://www.trust.ru/development/other/32959/",
+        "Тип объекта": "Не указано"
+    },
+    "236_Помещение_свободного_назначения": {
+        "Ссылка": "https://www.trust.ru/development/other/32966/",
+        "Тип объекта": "Не указано"
+    },
+    "237_Здание": {
+        "Ссылка": "https://www.trust.ru/development/other/32967/",
+        "Тип объекта": "Не указано"
+    },
+    "238_Офис": {
+        "Ссылка": "https://www.trust.ru/development/other/32968/",
+        "Тип объекта": "Не указано"
+    },
+    "239_Нежилое_помещение_(объект_общепита)": {
+        "Ссылка": "https://www.trust.ru/development/other/37458/nezhiloe-pomeshchenie-obekt-obshchepita/",
+        "Тип объекта": "Торговля"
+    },
+    "240_База_отдыха_347,5_кв._м.": {
+        "Ссылка": "https://www.trust.ru/development/other/37790/",
+        "Тип объекта": "Отели"
+    },
+    "241_Здание_автосалона": {
+        "Ссылка": "https://www.trust.ru/development/other/32825/",
+        "Тип объекта": "Не указано"
+    },
+    "242_Лифтовое_оборудование": {
+        "Ссылка": "https://www.trust.ru/development/other/37620/liftovoe-oborudovanie/",
+        "Тип объекта": "Другое"
+    },
+    "243_Земельный_участок_с_коттеджем": {
+        "Ссылка": "https://www.trust.ru/development/other/37858/",
+        "Тип объекта": "Земельный участок"
+    },
+    "244_Земельный_участок_с_коттеджем": {
+        "Ссылка": "https://www.trust.ru/development/other/37859/",
+        "Тип объекта": "Земельный участок"
+    },
+    "245_4_земельных_участка": {
+        "Ссылка": "https://www.trust.ru/development/other/37860/",
+        "Тип объекта": "Земельный участок"
+    },
+    "246_Имущественный_комплекс_плодового_сада": {
+        "Ссылка": "https://www.trust.ru/development/other/37870/",
+        "Тип объекта": "Земельный участок"
+    },
+    "247_Комплекс_зданий_автосалона": {
+        "Ссылка": "https://www.trust.ru/development/other/37883/",
+        "Тип объекта": "Площадка под девелопмент"
+    },
+    "248_Жилой_дом_с_хозяйственными_постройками": {
+        "Ссылка": "https://www.trust.ru/development/other/37884/",
+        "Тип объекта": "Жилое"
+    },
+    "249_Производственно-складской_комплекс": {
+        "Ссылка": "https://www.trust.ru/development/other/37885/",
+        "Тип объекта": "Производственные комплексы"
+    },
+    "250_Производственный_комплекс_по_изготовлению_полипропиленовых_мешков": {
+        "Ссылка": "https://www.trust.ru/development/other/37886/",
+        "Тип объекта": "Производственные комплексы"
+    },
+    "251_Жилая_загородная_недвижимость": {
+        "Ссылка": "https://www.trust.ru/development/other/37887/",
+        "Тип объекта": "Жилое"
+    },
+    "252_Нежилые_помещения_в_торгово-офисном_центре_«Горького_79»": {
+        "Ссылка": "https://www.trust.ru/development/other/37888/",
+        "Тип объекта": "Площадка под девелопмент"
+    },
+    "253_Нежилые_помещения_с_правом_аренды_з/у": {
+        "Ссылка": "https://www.trust.ru/development/other/37890/",
+        "Тип объекта": "Другое"
+    },
+    "254_Нежилые_помещения_(7_объектов)": {
+        "Ссылка": "https://www.trust.ru/development/other/37891/",
+        "Тип объекта": "Другое"
+    },
+    "255_Земельный_участок": {
+        "Ссылка": "https://www.trust.ru/development/other/37892/",
+        "Тип объекта": "Земельный участок"
+    },
+    "256_Нежилые_помещения": {
+        "Ссылка": "https://www.trust.ru/development/other/37893/",
+        "Тип объекта": "Отели"
+    },
+    "257_Плавучий_магазин": {
+        "Ссылка": "https://www.trust.ru/development/other/37894/",
+        "Тип объекта": "Торговля"
+    },
+    "258_Плавучий_магазин": {
+        "Ссылка": "https://www.trust.ru/development/other/37895/",
+        "Тип объекта": "Торговля"
+    },
+    "259_Производственная_база": {
+        "Ссылка": "https://www.trust.ru/development/other/37896/",
+        "Тип объекта": "Производственные комплексы"
+    },
+    "260_Нежилое_помещение": {
+        "Ссылка": "https://www.trust.ru/development/other/37897/",
+        "Тип объекта": "Торговля"
+    },
+    "261_Нежилое_помещение": {
+        "Ссылка": "https://www.trust.ru/development/other/37898/",
+        "Тип объекта": "Торговля"
+    },
+    "262_Нежилое_помещение": {
+        "Ссылка": "https://www.trust.ru/development/other/37899/",
+        "Тип объекта": "Торговля"
+    },
+    "263_Здание": {
+        "Ссылка": "https://www.trust.ru/development/other/37900/",
+        "Тип объекта": "Торговля"
+    },
+    "264_Нежилое_помещение": {
+        "Ссылка": "https://www.trust.ru/development/other/37901/",
+        "Тип объекта": "Торговля"
+    },
+    "265_Здание": {
+        "Ссылка": "https://www.trust.ru/development/other/37902/",
+        "Тип объекта": "Торговля"
+    },
+    "266_Нежилое_помещение": {
+        "Ссылка": "https://www.trust.ru/development/other/37903/",
+        "Тип объекта": "Торговля"
+    },
+    "267_Здание": {
+        "Ссылка": "https://www.trust.ru/development/other/37904/",
+        "Тип объекта": "Торговля"
+    },
+    "268_Нежилое_помещение": {
+        "Ссылка": "https://www.trust.ru/development/other/37905/",
+        "Тип объекта": "Торговля"
+    },
+    "269_Здание": {
+        "Ссылка": "https://www.trust.ru/development/other/37906/",
+        "Тип объекта": "Производственные комплексы"
+    },
+    "270_Жилые_помещения_(73_объекта)": {
+        "Ссылка": "https://www.trust.ru/development/other/37907/",
+        "Тип объекта": "Жилое"
+    },
+    "271_Нежилые_помещения_(30_объектов)": {
+        "Ссылка": "https://www.trust.ru/development/other/37908/",
+        "Тип объекта": "Другое"
+    },
+    "272_Здание": {
+        "Ссылка": "https://www.trust.ru/development/other/37909/",
+        "Тип объекта": "Производственные комплексы"
+    }
+}
